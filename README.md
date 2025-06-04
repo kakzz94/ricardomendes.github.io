@@ -1,2 +1,2 @@
-# ricardomendes.github.io
+# ricardomendes
 Ricardo Mendes - Teste
